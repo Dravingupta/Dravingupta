@@ -13,16 +13,17 @@
 ---
 
 <p align="center">
-<a href="https://drg-rho.vercel.app/" means="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-00FFE1?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-</a>
-<a href="https://linkedin.com/in/dravingupta">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:dravingupta12@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="https://drg-rho.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/dravingupta" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
+  <a href="mailto:dravingupta12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
@@ -42,7 +43,7 @@ When I’m not coding, you’ll find me debating ideas, exploring new tech, or r
 
 <img src="https://user-images.githubusercontent.com/74038190/216656981-27e5a8a6-dc59-4a52-ae2a-ec6e5d49a3f4.gif" width="100%" />
 
-## 💻 Tech Stack (Cyber Mode)
+## 💻 Tech Stack 
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,react,reactnative,vite,css,nodejs,express,mongodb,mysql,firebase,git,vercel,googlecloud&perline=8" />
@@ -52,7 +53,7 @@ When I’m not coding, you’ll find me debating ideas, exploring new tech, or r
 
 <img src="https://user-images.githubusercontent.com/74038190/216656988-1d52a8c7-6a5a-4c7b-b5a1-8c2a4a4a8c18.gif" width="100%" />
 
-## 📊 GitHub Activity (STABLE)
+## 📊 GitHub Activity
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dravingupta&theme=tokyonight" />
