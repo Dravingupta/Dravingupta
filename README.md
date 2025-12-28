@@ -26,17 +26,6 @@
 
 
 
-💡 Why this works  
-- Feels **hacker / cyberpunk**
-- Breaks the “text wall”
-- Recruiters love this
-
----
-
-## 2️⃣ Add **Animated Neon Divider (Pulse Line)**
-
-📍 Use this **between sections** instead of plain `---`
-
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon-line.gif" width="80%" />
