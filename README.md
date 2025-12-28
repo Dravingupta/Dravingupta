@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 <p align="center">
   <a href="https://drg-rho.vercel.app/" target="_blank">
@@ -25,7 +25,23 @@
 </p>
 
 
+
+💡 Why this works  
+- Feels **hacker / cyberpunk**
+- Breaks the “text wall”
+- Recruiters love this
+
 ---
+
+## 2️⃣ Add **Animated Neon Divider (Pulse Line)**
+
+📍 Use this **between sections** instead of plain `---`
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon-line.gif" width="80%" />
+</p>
+
 
 <img src="https://user-images.githubusercontent.com/74038190/216656975-3bffbdf4-9b7b-4a65-a98b-bc6d7d5fa0a4.gif" width="100%" />
 
