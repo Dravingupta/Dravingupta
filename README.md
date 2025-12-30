@@ -87,6 +87,7 @@ When I’m not coding, you’ll find me debating ideas, exploring new tech, or r
 <img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
 </p>
 
+
 ---
 
 <div align="center">
@@ -97,3 +98,4 @@ Let’s build something futuristic ⚡
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:00E5FF,100:7F00FF&height=130&section=footer" />
 
 </div>
+thanks for reading
