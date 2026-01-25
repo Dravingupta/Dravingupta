@@ -1,101 +1,109 @@
+<img src="assets/home-banner.png" width="100%">
 <div align="center">
+ 
+# Hi, I am Dravin Gupta  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,50:00E5FF,100:00FF9C&height=230&section=header&text=Dravin%20Gupta&fontSize=46&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20MERN%20Developer&descAlignY=58" />
+**Tech Explorer | MERN Stack Developer | Problem Solver** 
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFE1&center=true&vCenter=true&width=550&lines=MERN+Stack+Developer;Full-Stack+Web+Engineer;Problem+Solver;Cyberpunk+Builder+⚡" />
-
-<br/>
-
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Dravingupta&left_color=black&right_color=00FFE1" />
-
+B.Tech CSE student at Guru Nanak Dev University, Amritsar.
+I love turning ideas into **real, working products** and solving complex real-world problems.
+You'll find me building scalable web applications, crafting clean UIs, or exploring new tech stacks.
+Here to push the boundaries of Web Development and contribute to open-source one commit at a time!
 </div>
 
+<br>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%">
+</div>
 
+## About Me
 
-<p align="center">
-  <a href="https://drg-rho.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7F00FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+<table>
+<tr>
+<td width="50%">
+
+- **Passionate MERN Stack Developer** with a love for building innovative solutions and exploring modern web technologies.
+  
+- Diving deep into the world of **Full Stack Development**, constantly experimenting with new libraries and frameworks.
+
+- **Avid problem solver** who enjoys tackling complex algorithmic challenges and optimizing code performance.
+
+- **Lifelong learner** who thrives on staying updated with emerging tech trends and pushing the boundaries of what's possible.
+</td>
+<td width="50%">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="100%">
+</td>
+</tr>
+</table>
+
+## Tech Stack & Skills
+
+**Languages:**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frontend:**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Database:**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Tools & Cloud:**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
+</div>
+
+## Stats & Achievements
+ 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dravingupta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+</div>
+
+## Activity & Contributions
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dravingupta/Dravingupta/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
+
+## Connect
+
+<div align="center">
+  <a href="mailto:dravingupta12@gmail.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
   </a>
   <a href="https://linkedin.com/in/dravingupta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45">
   </a>
-  <a href="mailto:dravingupta12@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF1744?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
-
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon-line.gif" width="80%" />
-</p>
-
-
-<img src="https://user-images.githubusercontent.com/74038190/216656975-3bffbdf4-9b7b-4a65-a98b-bc6d7d5fa0a4.gif" width="100%" />
-
-## 💫 About Me
-
-Hey! I’m **Dravin Gupta**, a **B.Tech CSE student at Guru Nanak Dev University, Amritsar** and a passionate **MERN Stack Developer**.
-
-I love turning ideas into **real, working products** and building applications that solve **real-world problems**. I enjoy working across the entire stack — from crafting clean, responsive UIs to designing scalable backend APIs.
-
-When I’m not coding, you’ll find me debating ideas, exploring new tech, or reading about markets.
-
-⚡ Always learning. Always building.
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216656981-27e5a8a6-dc59-4a52-ae2a-ec6e5d49a3f4.gif" width="100%" />
-
-## 💻 Tech Stack 
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,react,reactnative,vite,css,nodejs,express,mongodb,mysql,firebase,git,vercel,googlecloud&perline=8" />
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216656988-1d52a8c7-6a5a-4c7b-b5a1-8c2a4a4a8c18.gif" width="100%" />
-
-## 📊 GitHub Activity
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dravingupta&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dravingupta&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dravingupta&theme=tokyonight" />
-</p>
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/216656970-3f3f8c63-48cb-4b7f-bb9c-33e49e6e36b7.gif" width="100%" />
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dravingupta/Dravingupta/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?theme=tokyonight" />
-</p>
-
-
----
+</div>
 
 <div align="center">
-
-### 💜 Welcome to the Grid  
-Let’s build something futuristic ⚡
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:00E5FF,100:7F00FF&height=130&section=footer" />
-
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80%">
 </div>
-thanks for reading
