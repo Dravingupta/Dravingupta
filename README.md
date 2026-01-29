@@ -85,7 +85,8 @@ Here to push the boundaries of Web Development and contribute to open-source one
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=dravingupta&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dravingupta&theme=radical&hide_border=true&border_radius=15" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dravingupta&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
+
   
   <br/>
 
