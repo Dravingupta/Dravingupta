@@ -84,12 +84,12 @@ Here to push the boundaries of Web Development and contribute to open-source one
 ## 📊 GitHub Stats 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dravingupta&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dravingupta&theme=radical&hide_border=true&border_radius=15" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dravingupta&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dravingupta&theme=radical&hide_border=true&border_radius=15" height="160px" />
   
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dravingupta&layout=compact&theme=radical&hide_border=true&border_radius=15" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dravingupta&layout=compact&theme=radical&hide_border=true&border_radius=15" height="150px" />
 </div>
 
 ---
