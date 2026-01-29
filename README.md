@@ -81,18 +81,23 @@ Here to push the boundaries of Web Development and contribute to open-source one
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-## Stats & Achievements
- 
+## 📊 GitHub Stats 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dravingupta&show_icons=true&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dravingupta&theme=radical&hide_border=true&border_radius=15&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F" alt="GitHub Streak" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Dravingupta&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="160px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dravingupta&theme=radical&hide_border=true&border_radius=15" height="160px" />
+  
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dravingupta&layout=compact&theme=radical&hide_border=true&border_radius=15" height="150px" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dravingupta&layout=compact&theme=radical&hide_border=true&border_radius=15&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages" height="180"/>
-</div>
+---
 
-## Activity & Contributions
+## 🌿 Activity & Contributions
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dravingupta&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="95%">
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dravingupta/Dravingupta/output/github-contribution-grid-snake.svg" width="100%" />
