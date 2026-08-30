@@ -82,16 +82,21 @@ Here to push the boundaries of Web Development and contribute to open-source one
 </div>
 
 ## 📊 GitHub Stats 
- <div align="center">
+<div align="center">
+  <!-- GitHub Stats -->
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dravingupta&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="160px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dravingupta&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
-
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=dravingupta&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
   
   <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dravingupta&layout=compact&theme=radical&hide_border=true&border_radius=15" height="150px" />
-</div> 
+  
+  
+  <!-- Profile Summary -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dravingupta&theme=radical" width="95%" />
+  
+  <!-- Activity Graph (This usually works) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dravingupta&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="95%" />
+</div>
 
 
 
