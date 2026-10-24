@@ -1,9 +1,9 @@
 <img src="assets/home-banner.png" width="100%">
 <div align="center">
- 
-# Hi, I am Dravin Gupta  
 
-**Tech Explorer | MERN Stack Developer | Problem Solver** 
+# Hi, I am Dravin Gupta
+
+**Tech Explorer | MERN Stack Developer | Problem Solver**
 
 B.Tech CSE student at Guru Nanak Dev University, Amritsar.
 I love turning ideas into **real, working products** and solving complex real-world problems.
@@ -23,7 +23,7 @@ Here to push the boundaries of Web Development and contribute to open-source one
 <td width="50%">
 
 - **Passionate MERN Stack Developer** with a love for building innovative solutions and exploring modern web technologies.
-  
+
 - Diving deep into the world of **Full Stack Development**, constantly experimenting with new libraries and frameworks.
 
 - **Avid problem solver** who enjoys tackling complex algorithmic challenges and optimizing code performance.
@@ -81,30 +81,24 @@ Here to push the boundaries of Web Development and contribute to open-source one
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats
 <div align="center">
   <!-- GitHub Stats -->
 
   <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=dravingupta&theme=chartreuse-dark&hide_border=true&border_radius=15" height="160px" />
-  
+
   <br/>
-  
-  
+
+
   <!-- Profile Summary -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dravingupta&theme=radical" width="95%" />
-  
-  <!-- Activity Graph (This usually works) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dravingupta&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="95%" />
+
 </div>
 
 
 
 ## 🌿 Activity & Contributions
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dravingupta&bg_color=0d1117&color=f85d7f&line=f8d866&point=ffffff&area=true&hide_border=true" width="95%">
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dravingupta/Dravingupta/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
@@ -113,13 +107,10 @@ Here to push the boundaries of Web Development and contribute to open-source one
 
 <div align="center">
   <a href="mailto:dravingupta12@gmail.com" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="100">
+    <img src="assets/email-button.svg" width="160" height="44" alt="Send Dravin an email" />
   </a>
+  &nbsp;
   <a href="https://linkedin.com/in/dravingupta" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45">
+    <img src="assets/linkedin-button.svg" width="160" height="44" alt="Connect with Dravin on LinkedIn" />
   </a>
-</div>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="80%">
 </div>
